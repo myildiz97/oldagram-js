@@ -1,2 +1,2 @@
-# oldagram-js
- An Instagram imitation with HTML, CSS, and JS.
+# Oldagram with JS
+- An Instagram imitation with HTML, CSS, and JS.
